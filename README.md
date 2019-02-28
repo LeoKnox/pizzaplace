@@ -31,3 +31,7 @@ Feature List:
 -p1 Use graphical images for spiciness of Pizza.
 -p2 Set up debug mode to allow debugging in browser.
 -p2 Demo exporting pizza list in excel document with 'pie' chart.
+
+Technical considerations
+c# for front end and server scripting.
+Blazor a webassembly package allowing the use of c# to run in html page
